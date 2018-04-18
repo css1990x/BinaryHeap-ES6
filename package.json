@@ -1,0 +1,29 @@
+{
+  "name": "binaryheap-es6",
+  "version": "1.0.0",
+  "description": "Binary Heap in ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css1990x/BinaryHeap-ES6.git"
+  },
+  "author": "css1990x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css1990x/BinaryHeap-ES6/issues"
+  },
+  "homepage": "https://github.com/css1990x/BinaryHeap-ES6#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
+}
